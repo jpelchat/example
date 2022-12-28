@@ -3,11 +3,13 @@ id: 9iok1hbmgnhe
 title: Sandbox container Jacob
 teaser: Get started quickly with a single container-based sandbox host
 description: Get started quickly with a container-based sandbox host. Choose a container
-  when you need a fast, lightweight Linux system.
+  when you need a fast, lightweight Linux system. This is going to be a great track!
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
-tags: []
+tags:
+- prod
 owner: instruqt-demos
 developers:
 - jacob@instruqt.com
-checksum: "11510108738002471075"
+maintenance: false
+checksum: "16784289646750970723"
 timelimit: 1800
