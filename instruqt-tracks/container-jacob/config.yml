@@ -1,0 +1,8 @@
+version: "3"
+containers:
+- name: container
+  image: ubuntu
+  shell: /bin/bash
+  environment:
+    TEST_JACOB: test123
+  memory: 256
