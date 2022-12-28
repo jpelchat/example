@@ -1,13 +1,15 @@
-slug: container-jacob
-id: 9iok1hbmgnhe
-title: Sandbox container Jacob
+slug: container-jacob-dev
+id: 1ic3mhqjsbbo
+title: DEV - Sandbox container Jacob
 teaser: Get started quickly with a single container-based sandbox host
 description: Get started quickly with a container-based sandbox host. Choose a container
   when you need a fast, lightweight Linux system.
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
-tags: []
+tags:
+- dev
 owner: instruqt-demos
 developers:
 - jacob@instruqt.com
-checksum: "11510108738002471075"
+maintenance: true
+checksum: "16936006903889619014"
 timelimit: 1800
